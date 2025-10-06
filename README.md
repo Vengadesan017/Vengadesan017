@@ -8,10 +8,19 @@
   <h3 align="center">A Passionate Full-Stack Developer | Django | React | Python | AI/ML Enthusiast</h3>
 
 </p>
-
+<p align="center">
+  <a href="https://github.com/vengadesan-g?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=vengadesan-g&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="mailto:vengadesang@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vengadesang%40gmail.com-blue?style=flat-square&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/vengadesan-g">
+    <img src="https://img.shields.io/badge/LinkedIn-Vengadesan-blue?style=flat-square&logo=linkedin"/>
+  </a>
+</p>
 ---
 
-# 🧠 About Me  
 - 🔭 Currently working on **AI-Driven Web Applications**  
 - 🌱 Learning **AL (Dynamics 365 Business Central)** and **FastAPI**  
 - ☁️ Exploring **AWS Cloud Deployment**  

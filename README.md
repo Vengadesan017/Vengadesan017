@@ -3,21 +3,21 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G...;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G...;Baack-end+Developer;AI%2FML+%26+Cloud+Enthusiast;&center=true">
 
-<h4 align="center">Full-Stack Developer | Django | React | Python | AI/ML</h4>
+<!-- <h4 align="center">Full-Stack Developer | Django | React | Python | AI/ML</h4> -->
 
 </p>
 
 ---
 
-- 🔭 Currently working on **AI-Driven Web Applications**  
-- 🌱 Learning **AL (Dynamics 365 Business Central)** and **FastAPI**  
-- ☁️ Exploring **AWS Cloud Deployment**  
-- 💡 Passionate about **Smart Electric Meter** & **Crop Residue Innovation Projects**  
-- 💬 Ask me about **Python, Django, React, MySQL, and Cloud**  
-- 📫 Reach me at **vengadesangithub@gmail.com**  
-- ⚡ Fun fact: I love building ideas that merge **Tech + Sustainability + Impact**  
+- 🎓 **B.Tech IT Graduate** passionate about crafting impactful digital solutions  
+- 💻 Skilled in **Python, Django, Java, Spring Boot, and AWS Cloud**  
+- 🌱 Currently exploring  **Full-Stack Development**  
+- 🚀 Tech enthusiast focused on building **AI-driven and cloud-native applications**  
+- 💬 Ask me about **Backend Development, APIs, Databases, or Cloud Deployment**  
+- ⚡ Fun fact: I love turning **real-world problems into scalable tech innovations**
+
 
 ---
 

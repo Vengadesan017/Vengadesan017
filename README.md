@@ -43,10 +43,10 @@
 ---
 
 # 🏆 GitHub Trophies  
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=false&margin-w=10">
   
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=false&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,AAA,AA,A,B,C">
 </p>
@@ -56,9 +56,9 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/vengadesan-g"><img src="https://img.shields.io/badge/LinkedIn-Vengadesan-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:vengadesang@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://github.com/vengadesan-g"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://linkedin.com/in/vengadesang"><img src="https://img.shields.io/badge/LinkedIn-Vengadesang-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:vengadesang2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-vengadesang2003-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/vengadesan017"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vengadesan-g&label=Profile%20Views&color=blue&style=flat)

@@ -62,4 +62,9 @@
   <a href="https://github.com/vengadesan017"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/></a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=true&margin-w=10">
+</p>
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=vengadesan-g&label=Profile%20Views&color=blue&style=flat)

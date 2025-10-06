@@ -46,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vengadesan017&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="165">
   <br/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vengadesan0&theme=tokyonight&hide_border=false" height="165"> -->
-  <img src="https://streak-stats.demolab.com/?user=Vengadesan017&theme=tokyonight&hide_border=false" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vengadesan017&theme=tokyonight&hide_border=false" height="165">
 
 </p>
 

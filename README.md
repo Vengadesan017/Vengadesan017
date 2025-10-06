@@ -3,10 +3,12 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;Building+Smart+Tech+Solutions;Nice+to+meet+you!&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G...;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;Building+Smart+Tech+Solutions;Nice+to+meet+you!&center=true">
 
+<h3 align="center">Full-Stack Developer | Django | React | Python | AI/ML</h3>
 
 </p>
+
 ---
 
 - 🔭 Currently working on **AI-Driven Web Applications**  

@@ -48,7 +48,7 @@
   
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=true&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,AAA,AA,A,B">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=false&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,AAA,AA,A,B,C">
 </p>
 
 

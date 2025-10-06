@@ -64,5 +64,12 @@
 </p>
 
 ---
+<!-- Contact -->
+### 📫 Let's Connect
 
+<p align="center">
+  <a href="https://linkedin.com/in/vengadesan-g"><img src="https://img.shields.io/badge/LinkedIn-Vengadesan-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:vengadesang@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://github.com/vengadesan-g"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/></a>
+</p>
 ![Profile Views](https://komarev.com/ghpvc/?username=vengadesan-g&label=Profile%20Views&color=blue&style=flat)

@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G...;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;Building+Smart+Tech+Solutions;Nice+to+meet+you!&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G...;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;&center=true">
 
 <h4 align="center">Full-Stack Developer | Django | React | Python | AI/ML</h4>
 
@@ -43,10 +43,11 @@
 ---
 
 # 🏆 GitHub Trophies  
- <p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=false&margin-w=10">
   
 </p>
+-->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=false&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,AAA,AA,A,B,C">
 </p>

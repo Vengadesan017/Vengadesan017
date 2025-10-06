@@ -21,7 +21,7 @@
 
 # 🖥️ Technical Skills  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,springboot,html,css,js,react,mysql,postgresql,git,vscode,postman,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,java,spring,html,css,js,react,mysql,postgresql,git,vscode,postman,aws,linux" />
 
 </p>
 

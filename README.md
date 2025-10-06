@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+# 👨‍💻 About Me
 - 🎓 **B.Tech IT Graduate** passionate about crafting impactful digital solutions  
 - 💻 Skilled in **Python, Django, Java, Spring Boot, and AWS Cloud**  
 - 🌱 Currently exploring  **Full-Stack Development**  

@@ -45,15 +45,13 @@
 # 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=false&margin-w=10">
+  
 </p>
-
----
-
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200px" alt="About Me GIF">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vengadesan017&theme=onedark&no-frame=true&no-bg=true&margin-w=10&rank=SECRET,SSS,SS,AAA,AA,A,B">
 </p>
 
----
+
 <!-- Contact -->
 ### 📫 Let's Connect
 

@@ -9,7 +9,7 @@
 
 </p>
 
----
+
 # 👨‍💻 About Me
 - 🎓 **B.Tech IT Graduate** passionate about crafting impactful digital solutions  
 - 💻 Skilled in **Python, Django, Java, Spring Boot, and AWS Cloud**  
@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I love turning **real-world problems into scalable tech innovations**
 
 
----
+
 
 # 🖥️ Technical Skills  
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 
----
+
 
 # 📊 GitHub Stats  
 <p align="center">
@@ -40,7 +40,7 @@
 
 </p>
 
----
+
 
 # 🏆 GitHub Trophies  
 <!-- <p align="center">

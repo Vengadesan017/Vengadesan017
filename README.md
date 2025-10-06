@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G...;Baack-end+Developer;AI%2FML+%26+Cloud+Enthusiast;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=;Hi+👋+I'm+Vengadesan+G...;Back-end+Developer;AI%2FML+%26+Cloud+Enthusiast;&center=true">
 
 <!-- <h4 align="center">Full-Stack Developer | Django | React | Python | AI/ML</h4> -->
 

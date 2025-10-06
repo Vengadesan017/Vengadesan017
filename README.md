@@ -4,19 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;Building+Smart+Tech+Solutions;Nice+to+meet+you!&center=true">
-<p align="center">
-  <a href="https://github.com/vengadesan-g?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=vengadesan-g&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="mailto:vengadesang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vengadesang%40gmail.com-blue?style=flat-square&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/vengadesang">
-    <img src="https://img.shields.io/badge/LinkedIn-Vengadesang-blue?style=flat-square&logo=linkedin"/>
-  </a>
-  <h3 align="center">A Passionate Full-Stack Developer | Django | React | Python | AI/ML Enthusiast</h3>
 
-</p>
 
 </p>
 ---

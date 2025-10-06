@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=420&height=28&lines=Hi+👋+I'm+Vengadesan+G;Full-Stack+Developer;AI%2FML+%26+Cloud+Enthusiast;Building+Smart+Tech+Solutions;Nice+to+meet+you!&center=true">
+
+  <h3 align="center">A Passionate Full-Stack Developer | Django | React | Python | AI/ML Enthusiast</h3>
+
 </p>
 
 ---
@@ -24,12 +27,7 @@
   <img src="https://skillicons.dev/icons?i=python,django,java,spring,html,css,js,react,mysql,postgresql,git,vscode,postman,aws,linux" />
 
 </p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-</p>
+
 
 ---
 
